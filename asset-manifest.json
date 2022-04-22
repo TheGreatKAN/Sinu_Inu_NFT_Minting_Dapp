@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sifu_inu_nft_minting_dapp/static/css/main.e06f9609.chunk.css",
+    "main.js": "/sifu_inu_nft_minting_dapp/static/js/main.dbffd755.chunk.js",
+    "main.js.map": "/sifu_inu_nft_minting_dapp/static/js/main.dbffd755.chunk.js.map",
+    "runtime-main.js": "/sifu_inu_nft_minting_dapp/static/js/runtime-main.c525cb2e.js",
+    "runtime-main.js.map": "/sifu_inu_nft_minting_dapp/static/js/runtime-main.c525cb2e.js.map",
+    "static/js/2.8d3d72f7.chunk.js": "/sifu_inu_nft_minting_dapp/static/js/2.8d3d72f7.chunk.js",
+    "static/js/2.8d3d72f7.chunk.js.map": "/sifu_inu_nft_minting_dapp/static/js/2.8d3d72f7.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/sifu_inu_nft_minting_dapp/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/sifu_inu_nft_minting_dapp/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/sifu_inu_nft_minting_dapp/index.html",
+    "static/css/main.e06f9609.chunk.css.map": "/sifu_inu_nft_minting_dapp/static/css/main.e06f9609.chunk.css.map",
+    "static/js/2.8d3d72f7.chunk.js.LICENSE.txt": "/sifu_inu_nft_minting_dapp/static/js/2.8d3d72f7.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/sifu_inu_nft_minting_dapp/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c525cb2e.js",
+    "static/js/2.8d3d72f7.chunk.js",
+    "static/css/main.e06f9609.chunk.css",
+    "static/js/main.dbffd755.chunk.js"
+  ]
+}

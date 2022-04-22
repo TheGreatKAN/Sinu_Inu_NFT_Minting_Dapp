@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Sifu Inu NFTs",
+  "SYMBOL": "SIFUnft",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "https://sifuinu.io/",
+  "SHOW_BACKGROUND": true
+}
